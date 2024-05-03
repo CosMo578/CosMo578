@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Raphael Akpor
-- 👀 I’m interested in Frontend web development
-- 🌱 I’m currently learning React && Responsive web design
+- 👀 I’m interested in Tech (design, web and app dev, web3, game dev)
+- 🌱 I’m currently learning NodeJs and Express
 - 💞️ I’m looking to collaborate on Web development projects
-- 👨‍💻 I code in HTML, CSS, JavaScript, Bash.
+- 👨‍💻 I code in HTML, CSS, JavaScript, Java, SHELL - Bash.
 - 📫 How to reach me raphaelakpor00@gmail.com || https://twitter.com/dev_ralph_
 
 <!---
